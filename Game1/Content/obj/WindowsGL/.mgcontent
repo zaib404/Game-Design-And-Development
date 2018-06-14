@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Zaib/Documents/Education/Uni/Year 2/COMP2351 - Game Design &amp; Engineering/Game Engineering/Team_Name_Here_COMP2351_GamePrototypeMilestone/Game project prototype/Game1/Content/Text.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

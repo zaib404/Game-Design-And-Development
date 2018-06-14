@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Zaib/Documents/Education/Uni/Year 2/COMP2351 - Game Design &amp; Engineering/Game Engineering/Team_Name_Here_COMP2351_GamePrototypeMilestone/Game project prototype/Game1/Content/Text.spritefont</SourceFile>
+  <SourceTime>2018-04-20T14:57:42+01:00</SourceTime>
+  <DestFile>D:/Zaib/Documents/Education/Uni/Year 2/COMP2351 - Game Design &amp; Engineering/Game Engineering/Team_Name_Here_COMP2351_GamePrototypeMilestone/Game project prototype/Game1/Content/bin/WindowsGL/Text.xnb</DestFile>
+  <DestTime>2018-06-05T20:40:11.9004159+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
